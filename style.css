@@ -63,6 +63,7 @@ footer{
     align-items: center;
     justify-content: center;
     margin: 5px;
+    text-align: center;
 }
 
 .social-media-icon {
@@ -82,10 +83,6 @@ footer{
 }
 
 .text_redes {
-    margin-left: 5px; 
-}
-
-.social-media-icon:hover {
-    background-color: #764ba2;
-    color: #fff;
+    margin-top: 5px;
+    font-size: 14px;
 }
